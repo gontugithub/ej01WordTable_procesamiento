@@ -1,0 +1,3 @@
+Data [Nombre=Diego, Apellido=Martinez, Edad=20,]
+Data [Nombre=Eduardo, Apellido=Ramos, Edad=18,]
+Data [Nombre=Carlos, Apellido=Aparicio, Edad=19,]
